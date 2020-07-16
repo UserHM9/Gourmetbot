@@ -1,0 +1,10 @@
+
+settings:
+    name: CHATVOICE
+
+strategies:
+    name:
+        - say "mi nombre is CHATVOICE"
+
+script:
+    - solve name
